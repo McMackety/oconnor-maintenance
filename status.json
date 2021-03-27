@@ -1,4 +1,4 @@
 {
-  "maintenance": true,
-  "note": "This is a test of the maintenance system.\n\n-Nathan"
+  "maintenance": false,
+  "note": ""
 }
